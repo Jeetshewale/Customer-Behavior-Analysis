@@ -1,4 +1,5 @@
-Customer Behavior Analysis
+Customer Behavior Analysis-
+
 This project analyzes customer shopping behavior to generate business insights using SQL, Python, and Power BI. The goal is to understand purchasing patterns, revenue distribution, product performance, and customer segmentation.
 
 Key Analyses-
