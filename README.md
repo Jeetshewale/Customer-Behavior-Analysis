@@ -1,11 +1,5 @@
 # Customer Behavior Analysis
 
-> [One-line summary: what this project analyzes and why it matters.]
-
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![Language](https://img.shields.io/badge/language-[Python%20%2F%20SQL%20%2F%20R]-blue)
-![License](https://img.shields.io/badge/license-[MIT]-green)
-
 <!-- Tip: replace the badges above or delete any you don't need. -->
 
 ---
