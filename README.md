@@ -25,7 +25,6 @@
 
 ## Overview
 
-[2-4 sentences. Describe what the project does, who it is for, and what a reader will learn from it.]
 
 **Goals**
 
@@ -37,7 +36,6 @@
 
 ## Business Problem
 
-[Describe the question or problem being solved. Example prompts:]
 
 - What decisions should this analysis support?
 - Which customer behaviors are you trying to explain or predict?
