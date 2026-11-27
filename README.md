@@ -203,8 +203,4 @@ This project is licensed under the [MIT] License. See the [LICENSE](LICENSE) fil
 
 **Jeet Shewale**
 
-- GitHub: [@Jeetshewale](https://github.com/Jeetshewale)
-- LinkedIn: [your-profile-link]
-- Email: [your-email]
-
 If you found this project useful, consider giving it a star.
